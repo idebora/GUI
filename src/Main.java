@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-//    TO DO: create an interface for an simple math computer
+//    TO DO: create an interface for a simple math computer
 
 public class Main {
 
